@@ -2,7 +2,7 @@
 
 developer working primarily in Python and Lua.
 
-I build Discord bots — slash commands, permission systems, and persistence layers — and write Luau alongside it. Currently learning C++.
+I build Discord bots — slash commands, permission systems, and persistence layers and i also write Luau alongside it. Currently learning C++.
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=white&labelColor=0D1117&color=161B22" />
