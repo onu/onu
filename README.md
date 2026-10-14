@@ -37,11 +37,17 @@ open for bot and script work. reach me here:
   </a>
 </p>
 
+<!--
+  USAGE — WakaTime needs ~24h after account creation before its API returns
+  anything. Uncomment this whole block tomorrow.
+  If it still shows the old error, bump v=2 to v=3 to beat GitHub's image cache.
+
 ---
 
 ### Usage
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=5c5a3c22-18ee-4a3c-bd90-deb196c37774&layout=compact&hide_border=true&custom_title=Editor%20time&bg_color=00000000&text_color=8B949E&title_color=E6EDF3" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=5c5a3c22-18ee-4a3c-bd90-deb196c37774&layout=compact&hide_border=true&custom_title=Editor%20time&bg_color=00000000&text_color=8B949E&title_color=E6EDF3&v=2" />
+-->
 
 <!--
   REPO STATS — uncomment once a couple of repos have real commits in them.
