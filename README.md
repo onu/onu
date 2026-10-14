@@ -1,6 +1,7 @@
 <img width="498" src="banner.webp" />
 About me - 
 
+
 developer working primarily in Python and Luau.
 
 I build Discord bots — slash commands, permission systems, and persistence layers — and i also write Luau alongside it. Currently learning C++.
