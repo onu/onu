@@ -1,6 +1,6 @@
 # onu
 
-Self-taught developer working primarily in Python and Lua.
+developer working primarily in Python and Luau.
 
 I build Discord bots — slash commands, permission systems, and persistence layers — and write Luau alongside it. Currently learning C++.
 
@@ -34,7 +34,7 @@ I build Discord bots — slash commands, permission systems, and persistence lay
 
 <br />
 
-<img width="100%" src="gif.gif" />
+<img width="100%" src="banner.gif" />
 
 <!--
   Editor time via WakaTime — uncomment once the account and VS Code extension are set up.
