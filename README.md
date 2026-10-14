@@ -4,7 +4,7 @@
 
 developer working primarily in Python and Luau.
 
-I build Discord bots with mainly slash commands, permission systems, and persistence layers and i also write Luau alongside it. Currently learning C++.
+I build Discord bots with slash commands, permission systems, and persistence layers and i also write Luau alongside it. Currently learning C++.
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=white&labelColor=0D1117&color=161B22" />
@@ -29,7 +29,7 @@ I build Discord bots with mainly slash commands, permission systems, and persist
 
 ### Commissions
 
-open for bot and script work — reach me here:
+open for bot and script work. reach me here:
 
 <p>
   <a href="https://discord.com/users/1320827552759287903">
@@ -41,7 +41,7 @@ open for bot and script work — reach me here:
 
 ### Usage
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=onu&layout=compact&hide_border=true&custom_title=Editor%20time&bg_color=00000000&text_color=8B949E&title_color=E6EDF3" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=5c5a3c22-18ee-4a3c-bd90-deb196c37774&layout=compact&hide_border=true&custom_title=Editor%20time&bg_color=00000000&text_color=8B949E&title_color=E6EDF3" />
 
 <!--
   REPO STATS — uncomment once a couple of repos have real commits in them.
