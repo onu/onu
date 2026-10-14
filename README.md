@@ -1,6 +1,4 @@
-# onu
-
-developer working primarily in Python and Lua.
+developer working primarily in Python and Luau.
 
 I build Discord bots — slash commands, permission systems, and persistence layers and i also write Luau alongside it. Currently learning C++.
 
@@ -34,7 +32,9 @@ I build Discord bots — slash commands, permission systems, and persistence lay
 
 <br />
 
-<img width="100%" src="banner.webp" />
+<p align="center">
+  <img width="498" src="banner.webp" />
+</p>
 
 <!--
   Editor time via WakaTime — uncomment once the account and VS Code extension are set up.
