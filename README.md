@@ -1,4 +1,5 @@
 <img width="498" src="banner.webp" />
+# About me
 
 developer working primarily in Python and Luau.
 
@@ -23,21 +24,18 @@ I build Discord bots — slash commands, permission systems, and persistence lay
 | Data | PostgreSQL, SQLite |
 | Environment | VS Code, Visual Studio 2026, Roblox Studio, Git |
 
-<!--
-  ACTIVITY — uncomment once a couple of repos have real commits in them.
-  Right now these render as zeros and "No languages data", which reads as broken.
+---
 
-### Activity
+### Usage
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=onu&layout=compact&hide_border=true&custom_title=Editor%20time&bg_color=00000000&text_color=8B949E&title_color=E6EDF3" />
+
+<!--
+  REPO STATS — uncomment once a couple of repos have real commits in them.
+  Right now these render as zeros and "No languages data", which reads as broken.
 
 <p>
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=onu&show_icons=true&hide_border=true&hide_title=true&hide=issues&include_all_commits=true&count_private=true&bg_color=00000000&text_color=8B949E&icon_color=8B949E&title_color=E6EDF3&ring_color=E6EDF3" />
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onu&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&text_color=8B949E&title_color=E6EDF3" />
-</p>
-
-  Editor time via WakaTime — account at wakatime.com, install the VS Code
-  extension, then GitHub Settings -> Profile -> "Display WakaTime stats".
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onu&layout=compact&hide_border=true&custom_title=Editor%20time&bg_color=00000000&text_color=8B949E&title_color=E6EDF3" />
 </p>
 -->
