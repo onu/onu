@@ -1,5 +1,5 @@
 <img width="498" src="banner.webp" />
-# About me
+About me - 
 
 developer working primarily in Python and Luau.
 
