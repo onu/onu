@@ -34,9 +34,7 @@ I build Discord bots — slash commands, permission systems, and persistence lay
 
 <br />
 
-<p align="center">
-  <img width="420" src="gif.gif" />
-</p>
+<img width="100%" src="gif.gif" />
 
 <!--
   Editor time via WakaTime — uncomment once the account and VS Code extension are set up.
