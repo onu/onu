@@ -1,6 +1,6 @@
 <img width="498" src="banner.webp" />
-About me - 
 
+### About me
 
 developer working primarily in Python and Luau.
 
@@ -24,6 +24,18 @@ I build Discord bots — slash commands, permission systems, and persistence lay
 | Libraries | discord.py, aiohttp |
 | Data | PostgreSQL, SQLite |
 | Environment | VS Code, Visual Studio 2026, Roblox Studio, Git |
+
+---
+
+### Commissions
+
+open for bot and script work — reach me here:
+
+<p>
+  <a href="https://discord.com/users/1320827552759287903">
+    <img src="https://img.shields.io/badge/Discord-FFFFFF?style=flat-square&logo=discord&logoColor=white&labelColor=0D1117&color=161B22" />
+  </a>
+</p>
 
 ---
 
