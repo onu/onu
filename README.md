@@ -1,10 +1,10 @@
-<img align="right" width="200" src="assets/gif.gif" />
+<img align="right" width="340" src="gif.gif" />
 
 # onu
 
-developer working primarily in Python and Luau.
+Self-taught developer working primarily in Python and Lua.
 
-I build Discord bots - slash commands, permission systems, and persistence layers — and write Luau alongside it.
+I build Discord bots — slash commands, permission systems, and persistence layers — and write Luau alongside it.
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=white&labelColor=0D1117&color=161B22" />
